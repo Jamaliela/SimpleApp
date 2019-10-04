@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge was following the video where we learned about adding and removing items. I had difficulty removing items from the app and the application would stop working. I had to rewatch the videos and fix some mistakes in my code and also rerun and rebuild the application was helpful. 
 
 ## License
 
